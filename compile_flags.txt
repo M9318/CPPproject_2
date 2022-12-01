@@ -1,0 +1,10 @@
+-ID:\CPPcourse\section19\challenge2
+-IC:\MinGW\lib\gcc\mingw32\5.1.0\include\c++
+-IC:\MinGW\lib\gcc\mingw32\5.1.0\include\c++\mingw32
+-IC:\MinGW\lib\gcc\mingw32\5.1.0\include\c++\backward
+-IC:\MinGW\lib\gcc\mingw32\5.1.0\include
+-IC:\MinGW\include
+-IC:\MinGW\lib\gcc\mingw32\5.1.0\include-fixed
+-IC:\MinGW\mingw32\include
+-target
+mingw32
